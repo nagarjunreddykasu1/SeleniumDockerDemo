@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T15:59:47Z" name="Suite" finished-at="2024-02-29T16:00:08Z" duration-ms="21067">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T15:59:47Z" name="Test2" finished-at="2024-02-29T16:00:04Z" duration-ms="17208">
+      <class name="tests.ShoppingCartTest">
+        <test-method signature="TC_Purchase_Product_01(java.lang.String)[pri:0, instance:tests.ShoppingCartTest@13ad5cd3]" started-at="2024-02-29T15:59:47Z" name="TC_Purchase_Product_01" finished-at="2024-02-29T16:00:04Z" duration-ms="17183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Purchase_Product_01 -->
+      </class> <!-- tests.ShoppingCartTest -->
+    </test> <!-- Test2 -->
+    <test started-at="2024-02-29T15:59:47Z" name="Test3" finished-at="2024-02-29T16:00:05Z" duration-ms="18635">
+      <class name="tests.ShoppingCartTest">
+        <test-method signature="TC_Purchase_Product_01(java.lang.String)[pri:0, instance:tests.ShoppingCartTest@6ce86ce1]" started-at="2024-02-29T15:59:47Z" name="TC_Purchase_Product_01" finished-at="2024-02-29T16:00:05Z" duration-ms="18614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Purchase_Product_01 -->
+      </class> <!-- tests.ShoppingCartTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2024-02-29T15:59:47Z" name="Test1" finished-at="2024-02-29T16:00:08Z" duration-ms="21067">
+      <class name="tests.ShoppingCartTest">
+        <test-method signature="TC_Purchase_Product_01(java.lang.String)[pri:0, instance:tests.ShoppingCartTest@416c58f5]" started-at="2024-02-29T15:59:47Z" name="TC_Purchase_Product_01" finished-at="2024-02-29T16:00:08Z" duration-ms="21043" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_Purchase_Product_01 -->
+      </class> <!-- tests.ShoppingCartTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
